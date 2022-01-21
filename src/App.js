@@ -7,11 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-<<<<<<< HEAD
-          First React Application
-=======
-         React Application
->>>>>>> b68ee8263d2c2d8e11ba71644277ba04f1cd8157
+        Testing React Application
         </p>
         <a
           className="App-link"
